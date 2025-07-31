@@ -1,3 +1,5 @@
+“This repository is a personal fork of Martin Bjerke’s course materials. It contains my own additions and notes. Not actively synced with the original repo.”
+
 # intro-to-data-science
 
 Content for a 1- to 2-day course introducing concepts in data science, aimed at intermediate Python coders.
